@@ -1,0 +1,2 @@
+ {{ include "rasa-common.hpa.spec" . }}
+
